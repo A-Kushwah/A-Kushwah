@@ -18,7 +18,7 @@
 
 ```javascript
 const ayush = {
-  🎓 education   : "B.Tech CSE @ VIT Bhopal (2023–2027)",
+  🎓 education   : "B.Tech CSE @ Vellore Institute of Technology, Bhopal (2023–2027)",
   💼 focus       : "Full-Stack Dev · Distributed Systems curious",
   🌍 location    : "India",
   🔭 building    : "llmctl — a unified CLI for multi-provider LLM config",
@@ -29,7 +29,8 @@ const ayush = {
 
 - 🛠️ Full-stack by trade, but I keep pulling on the systems thread — Redis, queues, and what actually happens under load
 - 🧵 Ran five rate-limiting algorithms head-to-head against real traffic and built a dashboard so the tradeoffs are visible, not theoretical
-- 📄 Co-authored an IEEE paper (AIST 2025) on carbon footprint estimation using LightGBM & TabGNN
+- 🏥 Built CareFlow, a healthcare scheduling platform with database-level double-booking prevention and a transactional outbox for reliable notification delivery
+- 📄 Co-authored an [IEEE paper (AIST 2025)](https://ieeexplore.ieee.org/abstract/document/11441523) on carbon footprint estimation using LightGBM & TabGNN
 - 🔐 Went down a cybersecurity rabbit hole via Goldman Sachs' simulation — ended up cracking weak hashes with Hashcat for fun
 - 🎯 Currently deep in placement prep
 
@@ -43,25 +44,39 @@ const ayush = {
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Shell](https://img.shields.io/badge/Shell_Script-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
 ### 🧰 Frameworks & Libraries
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 
-### 🛠️ Tools & Infrastructure
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+### 🗄️ Databases
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+
+### 🛠️ Tools & Infrastructure
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white)
+
+### 🔑 Core Concepts
+![REST APIs](https://img.shields.io/badge/REST_APIs-009688?style=for-the-badge)
+![OAuth 2.0](https://img.shields.io/badge/OAuth_2.0-3C873A?style=for-the-badge)
+![JWT](https://img.shields.io/badge/JWT_Auth-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
+![WebSockets](https://img.shields.io/badge/WebSockets-010101?style=for-the-badge&logo=socketdotio&logoColor=white)
 
 ### 🤖 AI Tools
 ![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white)
@@ -79,6 +94,19 @@ const ayush = {
 <tr>
 <td width="50%" valign="top">
 
+### 🏥 CareFlow — Healthcare Appointment Platform
+**Tech:** Next.js · TypeScript · Prisma · PostgreSQL
+
+[![Live Demo](https://img.shields.io/badge/Live_Demo-View-58A6FF?style=flat-square)](https://a-kushwah-care-flow.vercel.app/)
+[![Repo](https://img.shields.io/badge/GitHub-View_Repo-181717?style=flat-square&logo=github)](https://github.com/A-Kushwah/CareFlow)
+
+- Prevents double-booking at the database level with a PostgreSQL GiST exclusion constraint, not just application-side checks
+- Transactional outbox with exponential backoff and a dead-letter queue for reliable notification delivery
+- Google Calendar OAuth 2.0 sync, role-based access (Patients/Doctors/Admins), and 65 passing integration tests
+
+</td>
+<td width="50%" valign="top">
+
 ### ⚡ Distributed API Rate Limiter
 **Tech:** Node.js · Redis · Lua Scripts · Docker
 
@@ -87,9 +115,11 @@ const ayush = {
 
 - Compares **five rate-limiting algorithms** side by side under real traffic
 - Redis-backed checks with a live dashboard to visualize behavior under load
-- Built to close the gap between reading about rate limiting and actually watching it behave under pressure
+- Sustained 500 req/s at p99 12ms, blocking 4,990 of 5,000 over-quota requests
 
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 
 ### 🔗 Stub — URL Shortener
@@ -103,8 +133,6 @@ const ayush = {
 - QR code generation and per-link edit/disable controls
 
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 
 ### 📄 DocQ — Document Q&A (RAG)
@@ -118,18 +146,6 @@ const ayush = {
 - Fully in-browser indexing — no server round trip needed to search your own notes
 
 </td>
-<td width="50%" valign="top">
-
-### 🌍 Carbon Footprint Estimator
-**Tech:** LightGBM · TabGNN · TabPFN · Streamlit
-
-[![Repo](https://img.shields.io/badge/GitHub-View_Repo-181717?style=flat-square&logo=github)](https://github.com/A-Kushwah/carbon_foorprint)
-
-- AI-powered platform estimating individual and industrial carbon emissions
-- Combines gradient boosting, graph neural networks, and optimization for supply-chain-level predictions
-- Basis for an IEEE AIST 2025 publication — built as Data Scientist on a team project
-
-</td>
 </tr>
 </table>
 
@@ -139,6 +155,7 @@ const ayush = {
 
 | Project | Tech | Description |
 |---|---|---|
+| [Carbon Footprint Estimator](https://github.com/A-Kushwah/carbon_foorprint) | LightGBM, TabGNN, TabPFN, Streamlit | AI platform estimating individual and industrial carbon emissions; basis for an [IEEE AIST 2025 paper](https://ieeexplore.ieee.org/abstract/document/11441523) — built as Data Scientist on a 4-person team |
 | [Multiple Disease Detection](https://github.com/A-Kushwah/Multiple-Disease-Detection) | Streamlit, scikit-learn | Predicts diabetes, heart disease & breast cancer with probability-based confidence scores |
 | [Currency Converter](https://github.com/A-Kushwah/Currency_Converter) | HTML, CSS, JS | Real-time exchange rates via a free currency API with a responsive UI |
 
@@ -148,11 +165,13 @@ const ayush = {
 
 ## 🏆 Certifications & Achievements
 
-| 🏅 Certification | 🏢 Issuer | 📅 Date |
-|---|---|---|
-| **Software Engineering Virtual Experience** | Goldman Sachs (via Forage) | Feb 2025 |
-| — Assessed IT security & proposed password protection improvements | | |
-| — Cracked outdated hashes using **Hashcat** | | |
+| 🏅 Certification | 🏢 Issuer |
+|---|---|
+| Software Engineering Virtual Experience — cracked outdated hashes with Hashcat | Goldman Sachs (via Forage) |
+| Intro to Machine Learning | NPTEL |
+| Bits and Bytes of Computer Networking | Coursera (Google) |
+| Google IT Support Certificate | Google Career Certificates |
+| AI/ML Internship Certificate | MPOnline Limited |
 
 ---
 

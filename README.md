@@ -1,214 +1,190 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Ayush%20Kushwah&fontSize=55&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20CSE%20%40%20VIT%20Bhopal&descAlignY=58&descSize=18&animation=fadeIn" />
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Building+Scalable+Web+Applications;Distributed+Systems+%7C+Redis+%7C+Node.js;React+%2F+Next.js+%7C+Full-Stack+Dev;Machine+Learning+Enthusiast)](https://git.io/typing-svg)
+<img src="./assets/hero.svg" alt="Ayush Kushwah — full-stack developer, distributed systems" width="100%" />
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/a-kushwah)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/A-Kushwah)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ayushkushwah131@gmail.com)
+<a href="https://www.linkedin.com/in/a-kushwah"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white&labelColor=0b1020" /></a>
+<a href="https://github.com/A-Kushwah"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white&labelColor=0b1020" /></a>
+<a href="mailto:ayushkushwah131@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white&labelColor=0b1020" /></a>
+<img src="https://komarev.com/ghpvc/?username=A-Kushwah&style=flat-square&color=22d3ee&label=views" />
 
 </div>
 
----
+<img src="./assets/divider.svg" width="100%" height="3" />
 
-## 👨‍💻 About Me
+## `~/about`
 
-```javascript
-const ayush = {
-  🎓 education   : "B.Tech CSE @ Vellore Institute of Technology, Bhopal (2023–2027)",
-  💼 focus       : "Full-Stack Dev · Distributed Systems curious",
-  🌍 location    : "India",
-  🔭 building    : "llmctl — a unified CLI for multi-provider LLM config",
-  📖 always      : "digging one layer deeper than the docs ask for",
-  🤝 open_to     : "internships, collaborations, open source",
-};
+Full-stack developer who keeps pulling on the systems thread — Redis, queues, what actually happens under load. CSE undergrad at Vellore Institute of Technology, Bhopal (2023–2027).
+
+```
+→ ran 5 rate-limiting algorithms head-to-head against real traffic, not just read about them
+→ built CareFlow: double-booking prevention enforced at the database level, not app code
+→ co-authored an IEEE paper (AIST 2025) on carbon footprint estimation
+→ went down a cybersecurity rabbit hole via Goldman Sachs' sim — ended up cracking weak
+  hashes with Hashcat for fun
+→ currently deep in placement prep + building llmctl, a multi-provider LLM config CLI
 ```
 
-- 🛠️ Full-stack by trade, but I keep pulling on the systems thread — Redis, queues, and what actually happens under load
-- 🧵 Ran five rate-limiting algorithms head-to-head against real traffic and built a dashboard so the tradeoffs are visible, not theoretical
-- 🏥 Built CareFlow, a healthcare scheduling platform with database-level double-booking prevention and a transactional outbox for reliable notification delivery
-- 📄 Co-authored an [IEEE paper (AIST 2025)](https://ieeexplore.ieee.org/abstract/document/11441523) on carbon footprint estimation using LightGBM & TabGNN
-- 🔐 Went down a cybersecurity rabbit hole via Goldman Sachs' simulation — ended up cracking weak hashes with Hashcat for fun
-- 🎯 Currently deep in placement prep
+<img src="./assets/divider.svg" width="100%" height="3" />
 
----
-
-## 🚀 Tech Stack
-
-### 💻 Languages
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-### 🧰 Frameworks & Libraries
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-
-### 🗄️ Databases
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-
-### 🛠️ Tools & Infrastructure
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white)
-
-### 🔑 Core Concepts
-![REST APIs](https://img.shields.io/badge/REST_APIs-009688?style=for-the-badge)
-![OAuth 2.0](https://img.shields.io/badge/OAuth_2.0-3C873A?style=for-the-badge)
-![JWT](https://img.shields.io/badge/JWT_Auth-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
-![WebSockets](https://img.shields.io/badge/WebSockets-010101?style=for-the-badge&logo=socketdotio&logoColor=white)
-
-### 🤖 AI Tools
-![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white)
-![Claude Code](https://img.shields.io/badge/Claude_Code-D97757?style=for-the-badge&logo=claude&logoColor=white)
-![ChatGPT](https://img.shields.io/badge/ChatGPT-412991?style=for-the-badge&logo=openai&logoColor=white)
-![Codex](https://img.shields.io/badge/Codex-412991?style=for-the-badge&logo=openai&logoColor=white)
-![GitHub Copilot](https://img.shields.io/badge/GitHub_Copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white)
-![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white)
-
----
-
-## 🏗️ Featured Projects
+## `~/stack`
 
 <table>
-<tr>
-<td width="50%" valign="top">
+<tr><td valign="top" width="33%">
+
+**Languages**
+```
+Java
+JavaScript
+TypeScript
+HTML5 / CSS3
+```
+
+</td><td valign="top" width="33%">
+
+**Frameworks**
+```
+Next.js · React
+Node.js · Express
+Prisma ORM
+Tailwind CSS
+```
+
+</td><td valign="top" width="33%">
+
+**Data**
+```
+PostgreSQL · MySQL
+MongoDB · SQLite
+Redis
+```
+
+</td></tr>
+<tr><td valign="top" width="33%">
+
+**Infra & Tools**
+```
+AWS (EC2/S3/Lambda/RDS)
+Docker · Linux
+Git · Postman
+Playwright
+```
+
+</td><td valign="top" width="33%">
+
+**Core Concepts**
+```
+REST APIs · WebSockets
+JWT · OAuth 2.0
+System Design · RAG
+```
+
+</td><td valign="top" width="33%">
+
+**AI-assisted dev**
+```
+Claude · Claude Code
+ChatGPT / Codex
+GitHub Copilot · Ollama
+```
+
+</td></tr>
+</table>
+
+<img src="./assets/divider.svg" width="100%" height="3" />
+
+## `~/projects --featured`
 
 ### 🏥 CareFlow — Healthcare Appointment Platform
-**Tech:** Next.js · TypeScript · Prisma · PostgreSQL
+`Next.js` `TypeScript` `Prisma` `PostgreSQL`
 
-[![Live Demo](https://img.shields.io/badge/Live_Demo-View-58A6FF?style=flat-square)](https://a-kushwah-care-flow.vercel.app/)
-[![Repo](https://img.shields.io/badge/GitHub-View_Repo-181717?style=flat-square&logo=github)](https://github.com/A-Kushwah/CareFlow)
+Double-booking isn't an edge case in scheduling software — it's the thing that breaks trust fastest. Most apps catch it with application-side checks, which race under real concurrent load. This one doesn't:
 
-- Prevents double-booking at the database level with a PostgreSQL GiST exclusion constraint, not just application-side checks
-- Transactional outbox with exponential backoff and a dead-letter queue for reliable notification delivery
-- Google Calendar OAuth 2.0 sync, role-based access (Patients/Doctors/Admins), and 65 passing integration tests
+- Prevents double-booking with a **PostgreSQL GiST exclusion constraint** at the database level, not just app-side checks
+- **Transactional outbox** with exponential backoff + dead-letter queue for reliable notification delivery
+- Google Calendar OAuth 2.0 sync, role-based access (Patients / Doctors / Admins)
+- **65 passing integration tests**
 
-</td>
-<td width="50%" valign="top">
+[`→ live demo`](https://a-kushwah-care-flow.vercel.app/) · [`→ source`](https://github.com/A-Kushwah/CareFlow)
+
+---
 
 ### ⚡ Distributed API Rate Limiter
-**Tech:** Node.js · Redis · Lua Scripts · Docker
+`Node.js` `Redis` `Lua` `Docker`
 
-[![Live Demo](https://img.shields.io/badge/Live_Demo-View-58A6FF?style=flat-square)](https://rate-limiter-j4km.onrender.com)
-[![Repo](https://img.shields.io/badge/GitHub-View_Repo-181717?style=flat-square&logo=github)](https://github.com/A-Kushwah/Rate-Limiter)
+Five rate-limiting algorithms, benchmarked head-to-head against real traffic instead of staying theoretical:
 
-- Compares **five rate-limiting algorithms** side by side under real traffic
-- Redis-backed checks with a live dashboard to visualize behavior under load
-- Sustained 500 req/s at p99 12ms, blocking 4,990 of 5,000 over-quota requests
+- Token bucket, sliding window, sliding log, fixed window, leaky bucket — all as **atomic Redis Lua scripts**
+- **500 req/s sustained, p99 latency 12ms**; blocked 4,990 of 5,000 over-quota requests exactly
+- Live WebSocket dashboard to watch algorithm behavior under load in real time
 
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
+[`→ live demo`](https://rate-limiter-j4km.onrender.com) · [`→ source`](https://github.com/A-Kushwah/Rate-Limiter)
 
-### 🔗 Stub — URL Shortener
-**Tech:** Next.js · TypeScript · SQLite · Tailwind · JWT
+---
 
-[![Live Demo](https://img.shields.io/badge/Live_Demo-View-58A6FF?style=flat-square)](https://stub-url-shortner.vercel.app/)
-[![Repo](https://img.shields.io/badge/GitHub-View_Repo-181717?style=flat-square&logo=github)](https://github.com/A-Kushwah/URL-Shortner)
+<table>
+<tr><td valign="top" width="50%">
 
-- Shorten links, track clicks, manage accounts — end to end, kept intentionally small
-- JWT-based sessions with bcrypt password hashing, SQLite for a zero-external-dependency setup
-- QR code generation and per-link edit/disable controls
+**🔗 Stub — URL Shortener**
+`Next.js` `TypeScript` `SQLite`
 
-</td>
-<td width="50%" valign="top">
+JWT sessions + bcrypt hashing, click-analytics across 4 dimensions, QR codes, zero-dependency SQLite backend.
 
-### 📄 DocQ — Document Q&A (RAG)
-**Tech:** React · Vite · Cosine Similarity
+[`→ demo`](https://stub-url-shortner.vercel.app/) · [`→ source`](https://github.com/A-Kushwah/URL-Shortner)
 
-[![Live Demo](https://img.shields.io/badge/Live_Demo-View-58A6FF?style=flat-square)](https://docq-gamma.vercel.app/)
-[![Repo](https://img.shields.io/badge/GitHub-View_Repo-181717?style=flat-square&logo=github)](https://github.com/A-Kushwah/RAG-Document-Q-A)
+</td><td valign="top" width="50%">
 
-- Paste any document, get relevant passages back instantly via local retrieval
-- Automatic chunking + cosine-similarity ranking for long-form content
-- Fully in-browser indexing — no server round trip needed to search your own notes
+**📄 DocQ — Document Q&A (RAG)**
+`React` `Vite`
 
-</td>
-</tr>
+Fully client-side RAG pipeline — chunking, cosine-similarity retrieval — zero server round trips, documents never leave the browser.
+
+[`→ demo`](https://docq-gamma.vercel.app/) · [`→ source`](https://github.com/A-Kushwah/RAG-Document-Q-A)
+
+</td></tr>
 </table>
 
 <details>
-<summary><b>More projects</b></summary>
+<summary><code>$ ls more-projects/</code></summary>
 <br/>
 
-| Project | Tech | Description |
+| Project | Stack | Notes |
 |---|---|---|
-| [Carbon Footprint Estimator](https://github.com/A-Kushwah/carbon_foorprint) | LightGBM, TabGNN, TabPFN, Streamlit | AI platform estimating individual and industrial carbon emissions; basis for an [IEEE AIST 2025 paper](https://ieeexplore.ieee.org/abstract/document/11441523) — built as Data Scientist on a 4-person team |
-| [Multiple Disease Detection](https://github.com/A-Kushwah/Multiple-Disease-Detection) | Streamlit, scikit-learn | Predicts diabetes, heart disease & breast cancer with probability-based confidence scores |
-| [Currency Converter](https://github.com/A-Kushwah/Currency_Converter) | HTML, CSS, JS | Real-time exchange rates via a free currency API with a responsive UI |
+| [Carbon Footprint Estimator](https://github.com/A-Kushwah/carbon_foorprint) | LightGBM, TabGNN, TabPFN, Streamlit | Individual & industrial emissions estimation; basis for [IEEE AIST 2025 paper](https://ieeexplore.ieee.org/abstract/document/11441523), built as Data Scientist on a 4-person team |
+| [Multiple Disease Detection](https://github.com/A-Kushwah/Multiple-Disease-Detection) | Streamlit, scikit-learn | Diabetes / heart disease / breast cancer prediction with confidence scores |
+| [Currency Converter](https://github.com/A-Kushwah/Currency_Converter) | HTML, CSS, JS | Real-time exchange rates, responsive UI |
 
 </details>
 
----
+<img src="./assets/divider.svg" width="100%" height="3" />
 
-## 🏆 Certifications & Achievements
+## `~/certifications`
 
-| 🏅 Certification | 🏢 Issuer |
+| Cert | Issuer |
 |---|---|
-| Software Engineering Virtual Experience — cracked outdated hashes with Hashcat | Goldman Sachs (via Forage) |
+| Software Engineering Virtual Experience (cracked outdated hashes w/ Hashcat) | Goldman Sachs · Forage |
 | Intro to Machine Learning | NPTEL |
 | Bits and Bytes of Computer Networking | Coursera (Google) |
 | Google IT Support Certificate | Google Career Certificates |
 | AI/ML Internship Certificate | MPOnline Limited |
 
----
+<img src="./assets/divider.svg" width="100%" height="3" />
 
-## 📊 GitHub Stats
+## `~/stats`
 
 <div align="center">
-
-<img height="180em" src="https://github-stats-extended.vercel.app/api?username=A-Kushwah&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
-<img height="180em" src="https://github-stats-extended.vercel.app/api/top-langs/?username=A-Kushwah&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
-
+<img height="165" src="https://github-stats-extended.vercel.app/api?username=A-Kushwah&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0b1020&title_color=22d3ee&icon_color=a78bfa&text_color=c4b5fd"/>
+<img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=A-Kushwah&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0b1020&title_color=22d3ee&text_color=c4b5fd"/>
 </div>
 
----
-
-
-## 🎯 Currently
-
-- 🔨 Building **llmctl** — a unified Go/Rust CLI for managing multi-provider LLM configuration across Windows/WSL
-- 📚 Deepening knowledge in **Data Structures & Algorithms** for placement prep
-- 🌱 Exploring distributed systems patterns beyond the rate limiter — queues, caching layers, consistency tradeoffs
-- 👀 Open to **internship opportunities** — let's connect!
-
----
+<img src="./assets/divider.svg" width="100%" height="3" />
 
 <div align="center">
 
-### 💬 Let's Connect!
+### `$ echo "let's build something"`
 
-*I'm always open to interesting conversations, collaborations, and opportunities.*
-
-[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/a-kushwah)
-[![Email Me](https://img.shields.io/badge/Email_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ayushkushwah131@gmail.com)
-
-<br/>
-
-![Profile Views](https://komarev.com/ghpvc/?username=A-Kushwah&color=58A6FF&style=for-the-badge&label=PROFILE+VIEWS)
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer" />
+<a href="https://www.linkedin.com/in/a-kushwah"><img src="https://img.shields.io/badge/Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:ayushkushwah131@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 
 </div>
